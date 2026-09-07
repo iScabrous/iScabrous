@@ -1,6 +1,6 @@
 # Hi, I'm Nico 👋
 
-**B.Sc. IuK Student @ FAU Erlangen-Nürnberg | Homelab & Tech Enthusiast**
+**IT Infrastructure & System Design | B.Sc. IuK Student @ FAU Erlangen-Nürnberg**
 
 I enjoy experimenting with home server virtualization, Linux systems, and automating my personal homelab with practical scripts and tools.
 
