@@ -11,7 +11,6 @@ Focused on Linux systems, virtualization, networking, and practical homelab auto
 - 🔄 **Automation & CI/CD:** Deploying and updating containers via GitHub Actions with a self-hosted runner on Proxmox.
 - 🛡️ **Network & Privacy:** Remote access via Cloudflare Tunnels (zero open router ports), local ad-blocking with AdGuard Home, and encrypted remote backups via Rclone.
 - 📊 **Monitoring & Alerts:** Custom Bash health scripts for host and container checks, sending push notifications via Home Assistant.
-- 🌐 **Web Portfolio:** Interactive CV & status dashboard hosted on Cloudflare Pages at [cv.nico-core.de](https://cv.nico-core.de).
 
 ---
 
