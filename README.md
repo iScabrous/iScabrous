@@ -36,12 +36,6 @@ Focused on Linux systems, virtualization, networking, and practical homelab auto
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iScabrous&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nico's GitHub Stats" />
-</p>
-
----
-
 ### 🔗 Links
 
 - 🌐 **Portfolio & Web CV:** [cv.nico-core.de](https://cv.nico-core.de)
